@@ -1,0 +1,31 @@
+L'enoncer de l'exercice archeo uml est stocker ici
+
+Exercice 2 : Archéologie
+
+La société royale d’archéologie automobile vous
+embauche pour réaliser un système de support aux
+archéologues lors des fouilles.
+Un archéologue lors d’une fouille réalise le croquis d’une
+pièce sur son tablet PC et l’envoie au serveur de
+l’association. Pour ce faire il ouvre un nouveau dessin et
+commence à dessiner. Il a également la possibilité de
+copier des éléments à partir d’un ancien dessin. Après
+avoir défini un certain nombre de propriétés pour son
+dessin (résolution, nombre de couleurs,…),
+l’archéologue envoie son dessin au serveur de bases de
+données en indiquant où le fichier doit être stocké et par
+qui il peut être vu.
+
+Exercice 2 : Archéologie (suite)
+
+On vous demande d’adapter le système. Les
+archéologues de terrain sont de deux types, les
+archéologues apprentis et les archéologues
+confirmés. Pour assurer la qualité de la base de
+données, seuls les confirmés peuvent réaliser et
+envoyer des croquis au serveur. Néanmoins, les
+archéologues apprentis peuvent envoyer des
+notes de type texte (prises sur leur Tablet PC).
+Cette faculté est également accessible aux
+confirmés. Ces notes seront disponibles pour
+tous via le site web de l’association. 
